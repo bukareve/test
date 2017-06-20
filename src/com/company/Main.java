@@ -6,6 +6,7 @@ import com.sun.org.apache.xpath.internal.SourceTree;
 
 public class Main {
 
+
     static byte b = 8;
     static short sh = 16;
     static int in = 32;
